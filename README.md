@@ -1,2 +1,13 @@
-# react-iteration-demo
-In-class code demo - building a react app that displays a list of pokemon from an api.
+Switch branch to see the phases of development: Boilerplate
+
+From the project root...
+
+Install dependencies:
+### yarn install
+
+Start server:
+### yarn start
+
+Stop server:
+### crtl+c
+
